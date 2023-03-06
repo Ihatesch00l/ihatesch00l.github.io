@@ -1,1 +1,2 @@
 # ihatesch00l.github.io
+<!DOCTYPE html> <html> <head> <title>My Website</title> </head> <body> <h1>Rayan's Unblocked Now.gg Games</h1> <p>you really think goguardian will work? i learned how to make a site without google sites just to do this buddy.</p> <!-- Embedding a game from another website --> <iframe src="https://desmos.up.railway.app/uv/service/hvtrs8%2F-neg%2C7%3B8qc%2Ccmm-" width="800" height="600"></iframe> </body> </html>
